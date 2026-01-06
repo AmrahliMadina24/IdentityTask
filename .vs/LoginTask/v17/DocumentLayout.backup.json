@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\logintask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\logintask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|c:\\users\\student\\desktop\\mvc-fastkart\\logintask\\logintask\\migrations\\20260106141737_useradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38D187F-AFF1-4E4F-AB6B-8B71D93CE160}|LoginTask\\LoginTask.csproj|solutionrelative:logintask\\migrations\\20260106141737_useradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LoginTask\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LoginTask\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T13:54:28.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginTask\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginTask\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T13:54:05.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\appsettings.json",
+              "RelativeToolTip": "LoginTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T13:39:36.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginTask\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginTask\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:51:19.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "LoginTask\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Models\\AppUser.cs",
+              "RelativeToolTip": "LoginTask\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:57:43.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAO0GAAAAAAAAAAAswAwHAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T13:42:40.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:47:16.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260106141737_UserAdded.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Migrations\\20260106141737_UserAdded.cs",
+              "RelativeDocumentMoniker": "LoginTask\\Migrations\\20260106141737_UserAdded.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Migrations\\20260106141737_UserAdded.cs",
+              "RelativeToolTip": "LoginTask\\Migrations\\20260106141737_UserAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:17:37.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Program.cs",
+              "RelativeDocumentMoniker": "LoginTask\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Program.cs",
+              "RelativeToolTip": "LoginTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:36:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\ViewModels\\UserVM\\LoginVM.cs",
+              "RelativeDocumentMoniker": "LoginTask\\ViewModels\\UserVM\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\ViewModels\\UserVM\\LoginVM.cs",
+              "RelativeToolTip": "LoginTask\\ViewModels\\UserVM\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:57:19.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\ViewModels\\UserVM\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "LoginTask\\ViewModels\\UserVM\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\ViewModels\\UserVM\\RegisterVM.cs",
+              "RelativeToolTip": "LoginTask\\ViewModels\\UserVM\\RegisterVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:57:11.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LoginTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LoginTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:13:57.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LoginTask\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "LoginTask\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:01:21.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginTask.csproj",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\LoginTask.csproj",
+              "RelativeDocumentMoniker": "LoginTask\\LoginTask.csproj",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\LoginTask.csproj",
+              "RelativeToolTip": "LoginTask\\LoginTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-06T13:56:35.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIUKAAAAAAAAAAAiwKMKAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T13:48:40.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LoginTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MVC-Fastkart\\LoginTask\\LoginTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LoginTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-06T13:39:02.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
