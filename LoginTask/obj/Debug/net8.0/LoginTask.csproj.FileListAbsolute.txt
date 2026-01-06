@@ -257,3 +257,4 @@ C:\Users\student\Desktop\MVC-Fastkart\LoginTask\LoginTask\obj\Debug\net8.0\refin
 C:\Users\student\Desktop\MVC-Fastkart\LoginTask\LoginTask\obj\Debug\net8.0\LoginTask.pdb
 C:\Users\student\Desktop\MVC-Fastkart\LoginTask\LoginTask\obj\Debug\net8.0\LoginTask.genruntimeconfig.cache
 C:\Users\student\Desktop\MVC-Fastkart\LoginTask\LoginTask\obj\Debug\net8.0\ref\LoginTask.dll
+C:\Users\student\Desktop\MVC-Fastkart\LoginTask\LoginTask\obj\Debug\net8.0\LoginTask.sourcelink.json

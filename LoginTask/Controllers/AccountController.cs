@@ -2,6 +2,7 @@
 using LoginTask.ViewModels.UserVM;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
 namespace LoginTask.Controllers
@@ -69,13 +70,13 @@ namespace LoginTask.Controllers
             }
 
             var existUserEmail = await _userManager.FindByEmailAsync(vm.Email);
-            if (existUserEmail is { })
+            if (existUserEmail is not { })
             {
                 ModelState.AddModelError("Email", "Email or Password is wrong. ");
                 return View(vm);
             }
             var existUserPassword = await _userManager.CheckPasswordAsync(existUserEmail, vm.Password);
-            if (existUserPassword is { })
+            if (existUserPassword is false)
             {
                 ModelState.AddModelError("Password", "Email or Password is wrong. ");
                 return View(vm);

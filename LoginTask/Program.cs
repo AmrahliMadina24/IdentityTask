@@ -18,14 +18,9 @@ namespace LoginTask
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
 
-            builder.Services.AddIdentity<AppUser, IdentityRole>(
-
-                opt =>
-                {
-
-                }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
 
+            builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
             
 
 

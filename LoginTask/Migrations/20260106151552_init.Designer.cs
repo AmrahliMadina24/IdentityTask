@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LoginTask.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260106141737_UserAdded")]
-    partial class UserAdded
+    [Migration("20260106151552_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
